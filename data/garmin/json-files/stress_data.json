@@ -1,0 +1,218 @@
+[
+    {
+        "Date": "27 Dec",
+        "Average": 29,
+        "Resting": 721,
+        "Low Stress": 339,
+        "Medium Stress": 147,
+        "High Stress": 25
+    },
+    {
+        "Date": "26 Dec",
+        "Average": 31,
+        "Resting": 599,
+        "Low Stress": 480,
+        "Medium Stress": 135,
+        "High Stress": 22
+    },
+    {
+        "Date": "25 Dec",
+        "Average": 25,
+        "Resting": 789,
+        "Low Stress": 368,
+        "Medium Stress": 50,
+        "High Stress": 8
+    },
+    {
+        "Date": "24 Dec",
+        "Average": 29,
+        "Resting": 702,
+        "Low Stress": 346,
+        "Medium Stress": 107,
+        "High Stress": 28
+    },
+    {
+        "Date": "23 Dec",
+        "Average": 27,
+        "Resting": 703,
+        "Low Stress": 259,
+        "Medium Stress": 106,
+        "High Stress": 40
+    },
+    {
+        "Date": "22 Dec",
+        "Average": 24,
+        "Resting": 849,
+        "Low Stress": 265,
+        "Medium Stress": 64,
+        "High Stress": 5
+    },
+    {
+        "Date": "21 Dec",
+        "Average": 33,
+        "Resting": 471,
+        "Low Stress": 513,
+        "Medium Stress": 143,
+        "High Stress": 30
+    },
+    {
+        "Date": "20 Dec",
+        "Average": 33,
+        "Resting": 501,
+        "Low Stress": 495,
+        "Medium Stress": 146,
+        "High Stress": 29
+    },
+    {
+        "Date": "19 Dec",
+        "Average": 36,
+        "Resting": 411,
+        "Low Stress": 538,
+        "Medium Stress": 207,
+        "High Stress": 40
+    },
+    {
+        "Date": "18 Dec",
+        "Average": 39,
+        "Resting": 296,
+        "Low Stress": 510,
+        "Medium Stress": 252,
+        "High Stress": 45
+    },
+    {
+        "Date": "17 Dec",
+        "Average": 36,
+        "Resting": 432,
+        "Low Stress": 349,
+        "Medium Stress": 156,
+        "High Stress": 57
+    },
+    {
+        "Date": "16 Dec",
+        "Average": 39,
+        "Resting": 470,
+        "Low Stress": 310,
+        "Medium Stress": 333,
+        "High Stress": 83
+    },
+    {
+        "Date": "15 Dec",
+        "Average": 31,
+        "Resting": 629,
+        "Low Stress": 404,
+        "Medium Stress": 178,
+        "High Stress": 39
+    },
+    {
+        "Date": "14 Dec",
+        "Average": 35,
+        "Resting": 420,
+        "Low Stress": 611,
+        "Medium Stress": 166,
+        "High Stress": 30
+    },
+    {
+        "Date": "13 Dec",
+        "Average": 41,
+        "Resting": 223,
+        "Low Stress": 601,
+        "Medium Stress": 270,
+        "High Stress": 48
+    },
+    {
+        "Date": "12 Dec",
+        "Average": 35,
+        "Resting": 475,
+        "Low Stress": 359,
+        "Medium Stress": 182,
+        "High Stress": 65
+    },
+    {
+        "Date": "11 Dec",
+        "Average": 23,
+        "Resting": 818,
+        "Low Stress": 256,
+        "Medium Stress": 54,
+        "High Stress": 18
+    },
+    {
+        "Date": "10 Dec",
+        "Average": 37,
+        "Resting": 320,
+        "Low Stress": 514,
+        "Medium Stress": 189,
+        "High Stress": 52
+    },
+    {
+        "Date": "9 Dec",
+        "Average": 35,
+        "Resting": 508,
+        "Low Stress": 369,
+        "Medium Stress": 247,
+        "High Stress": 53
+    },
+    {
+        "Date": "8 Dec",
+        "Average": 25,
+        "Resting": 796,
+        "Low Stress": 220,
+        "Medium Stress": 84,
+        "High Stress": 25
+    },
+    {
+        "Date": "7 Dec",
+        "Average": 35,
+        "Resting": 382,
+        "Low Stress": 576,
+        "Medium Stress": 188,
+        "High Stress": 25
+    },
+    {
+        "Date": "6 Dec",
+        "Average": 28,
+        "Resting": 610,
+        "Low Stress": 309,
+        "Medium Stress": 135,
+        "High Stress": 40
+    },
+    {
+        "Date": "5 Dec",
+        "Average": 22,
+        "Resting": 881,
+        "Low Stress": 174,
+        "Medium Stress": 64,
+        "High Stress": 21
+    },
+    {
+        "Date": "4 Dec",
+        "Average": 23,
+        "Resting": 990,
+        "Low Stress": 255,
+        "Medium Stress": 97,
+        "High Stress": 11
+    },
+    {
+        "Date": "3 Dec",
+        "Average": 29,
+        "Resting": 469,
+        "Low Stress": 235,
+        "Medium Stress": 95,
+        "High Stress": 27
+    },
+    {
+        "Date": "2 Dec",
+        "Average": 34,
+        "Resting": 490,
+        "Low Stress": 355,
+        "Medium Stress": 147,
+        "High Stress": 71
+    },
+    {
+        "Date": "1 Dec",
+        "Average": 29,
+        "Resting": 532,
+        "Low Stress": 259,
+        "Medium Stress": 126,
+        "High Stress": 22
+    }
+]
